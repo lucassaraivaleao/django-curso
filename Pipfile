@@ -15,6 +15,7 @@ django-s3-folder-storage = "*"
 s3 = "*"
 collectfast = "*"
 django-cors-headers = "*"
+setuptools = "*"
 
 [dev-packages]
 flake8 = "*"
