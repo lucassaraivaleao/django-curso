@@ -17,6 +17,7 @@ collectfast = "*"
 django-cors-headers = "*"
 setuptools = "*"
 django-debug-toolbar = "*"
+sentry-sdk = "*"
 
 [dev-packages]
 flake8 = "*"
