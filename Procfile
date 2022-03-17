@@ -1,2 +1,2 @@
 release: python manage.py migrate --noinput
-web: gunicorn cursodjango.wsgi --log-file -
+web: gunicorn djangocurso.wsgi --log-file -
