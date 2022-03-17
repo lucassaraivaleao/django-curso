@@ -16,10 +16,12 @@ s3 = "*"
 collectfast = "*"
 django-cors-headers = "*"
 setuptools = "*"
-django-debug-toolbar = "*"
+django-debug-toolbar = {editable = true, git = "https://github.com/jazzband/django-debug-toolbar.git"}
 sentry-sdk = "*"
 baker = "*"
 django-ordered-model = "*"
+ipython = "*"
+django-extensions = "*"
 
 [dev-packages]
 flake8 = "*"

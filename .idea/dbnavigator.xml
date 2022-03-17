@@ -37,6 +37,9 @@
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="5268435b-89e5-4ae0-83d0-129e69c2b2f0" />
   </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="5268435b-89e5-4ae0-83d0-129e69c2b2f0" dataset="public.turmas_turma_matriculas" active-filter-id="" />
+  </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
   </component>
